@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @appFox-git
-- 👀 I’m a Full Stack Web & Mobile Application Developer; with a passion for delivering effective, practical solutions. I'm also interested in embedded microcontrollers, oil & gas well logging (geoscience), music, travelling and family.
+- 👀 I’m a Full Stack Web & Mobile Application Developer; with a passion for delivering effective, practical solutions. I'm also interested in embedded microcontrollers, oil & gas well logging (geoscience), music, travelling and family. Bilingual (English/Spanish).
 - 🌱 I’m a dedicated, life-long self-learner and like helping people in return.
 - 💞️ I’m looking to collaborate on web and mobile application development projects.
 - 📫 How to reach me: https://www.linkedin.com/in/lee-fox-plt/
